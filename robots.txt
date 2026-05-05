@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.rovepackersandmovers.com/sitemap.xml
+Disallow: /admin/
+Disallow: /private/
+Crawl-delay: 5
